@@ -10,3 +10,7 @@
 ![2 задание](https://github.com/AlyonaAO/hw6/blob/master/Скриншот%202018-04-08%2015.01.00.png)
 
 *We can see both "like people" and "love people" can be used in our speech. However there is only one variant possible with some words(f.e.: "like tea" and "love god")*
+***
+![бонусное задание](https://github.com/AlyonaAO/hw6/blob/master/Скриншот%202018-04-08%2015.29.54.png)
+
+![бонусное задание]
